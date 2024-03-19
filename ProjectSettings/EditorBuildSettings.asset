@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ZendenUI.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Settings1.unity
+    guid: 31917f01567562a4eb15bafc8db5f8f4
+  - enabled: 1
+    path: Assets/Scenes/GameMode2.unity
+    guid: b62d6001a3b41df4c9585bfac227c4aa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d817d6f62a9e83947884b02315434486, type: 2}
